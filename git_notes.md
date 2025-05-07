@@ -18,7 +18,7 @@
          above command show who is the owner of the repository.
 
    **2) git init**- This command is used to convert folder into git repository.<br/>
-   **3) git status**-This command is used to check the statyus of the file.<br>
+   **3) git status**-This command is used to check the statyus of the file.<br/>
    **4) git add**- This command is used to add the files in staging area.
            *git add file_name*-this add a particular file in staging area.
            *git add .*- This command is add all the files in staging area.

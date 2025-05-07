@@ -6,3 +6,6 @@
 
  ### github and gitlab
   GitHub is a web-based platform used for storing and managing code, particularly for software development. It uses the version control      system Git, which allows multiple people to work on a project together efficiently by tracking changes and enabling collaboration. 
+
+  ## working of git:
+  ![ working_of_git](featured.png)

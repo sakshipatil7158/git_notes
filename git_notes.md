@@ -19,25 +19,25 @@
 
    **2) git init**- This command is used to convert folder into git repository.<br/>
    **3) git status**-This command is used to check the statyus of the file.<br/>
-   **4) git add**- This command is used to add the files in staging area.
-           *git add file_name*-this add a particular file in staging area.
-           *git add .*- This command is add all the files in staging area.
-   **5) git commit**-This command is used to add the files from staging area to local area.
-          *command: git commit -m "pass any commit*
-   **6) git push**-this command is used to add the files form local repository to remote repository.
-            *command for first-time to push local repository into remote repository(github)
-                  git push url_of_github_repo --set-upstream branch_name
-   **7) alias**- This is used to create the short name for github repository url
-            *command: git remote add origin(any_name) url_of_github_repo*
-            *To check alias:* use git remote command
-   **8) git clone**-This is used for reterive data from remote to local repository for first time.
-             *command: git clone url_of_remote_repository
-   **9) git pull**-When we want to retrive data from updated remote repository then use git pull command.
-             *command-*: git pull url_of_remote_repository
+   **4) git add**- This command is used to add the files in staging area.<br/>
+           *git add file_name*-this add a particular file in staging area.<br/>
+           *git add .*- This command is add all the files in staging area.<br/>
+   **5) git commit**-This command is used to add the files from staging area to local area.<br/>
+          *command: git commit -m "pass any commit*<br/>
+   **6) git push**-this command is used to add the files form local repository to remote repository.<br/>
+            *command for first-time to push local repository into remote repository(github)<br/>
+                  git push url_of_github_repo --set-upstream branch_name<br/>
+   **7) alias**- This is used to create the short name for github repository url<br/>
+            *command: git remote add origin(any_name) url_of_github_repo*<br/>
+            *To check alias:* use git remote command<br/>
+   **8) git clone**-This is used for reterive data from remote to local repository for first time.<br/>
+             *command: git clone url_of_remote_repository<br/>
+   **9) git pull**-When we want to retrive data from updated remote repository then use git pull command.<br/>
+             *command-*: git pull url_of_remote_repository<br/>
    **10) git diff**-git diff is a command-line tool in Git that shows the differences between various states of a repository. It helps          developers see what changes have been made, whether they are between working directory and the staging area, between the 
-        staging area and the last commit, or between any two commits.
-            *commands-:* git diff -for changes in working area
-    **11)configure list**- git config --list
+        staging area and the last commit, or between any two commits.<br/>
+            *commands-:* git diff -for changes in working area<br/>
+    **11)configure list**- git config --list<br/>
     
     
     
